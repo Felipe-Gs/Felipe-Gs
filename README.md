@@ -1,4 +1,4 @@
-<h1>Olá! eu sou Felipe Gomes.</h1>
+<h1>Olá! eu sou Felipe Gomes, Deselvolvedor Front End</h1>
 
 <h2>Clique em Website Up e veja meu Portifolio...</h2><a href="https://portifolio-pessoal.vercel.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 </div>
@@ -28,4 +28,5 @@
  <a href="https://discord.gg/Felipe Gomes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:felipe123321rei@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-gs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  ![Snake animation](https://github.com/Felipe-Gs/Felipe-Gs/blob/output/github-contribution-grid-snake.svg)
+</div>
