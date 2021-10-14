@@ -1,4 +1,4 @@
-<h1>Olá! eu sou Felipe Gomes, Deselvolvedor Front End</h1>
+<h1>Olá! eu sou Felipe Gomes.</h1>
 
 <h2>Clique em Website Up e veja meu Portifolio...</h2><a href="https://portifolio-pessoal.vercel.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 </div>
