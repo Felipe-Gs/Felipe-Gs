@@ -4,7 +4,7 @@
 </div>
 
 <h3>- 🔭 Hoje sou Técnico em Informática e Estudante em Engenharia de Software</h3>
-<h3>- 😄 Estudando Reactjs e TypeScripit</h3>
+<h3>- 😄 Estudando JavaScript</h3>
 
 <div align="center">
   <a href="https://github.com/Felipe-Gs">
