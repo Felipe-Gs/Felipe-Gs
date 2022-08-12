@@ -3,8 +3,8 @@
 <h2>Clique em Website Up e veja meu Portifolio...</h2><a href="https://portifolio-pessoal.vercel.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 </div>
 
-<h3>- 🔭 Hoje sou Técnico em Informática e Estudante em Engenharia de Software</h3>
-<h3>- 😄 Estudando JavaScript</h3>
+<h3>- 🔭 Cursando Engenharia de Software, Desenvolvedor Front end mobile com React Native (Projeto da faculdade)</h3>
+<h3>- 😄 Estudando React Native</h3>
 
 <div align="center">
   <a href="https://github.com/Felipe-Gs">
