@@ -4,7 +4,7 @@
 </div>
 
 <h3>- 🔭 Cursando Engenharia de Software, Desenvolvedor Front end mobile com React Native (Projeto da faculdade)</h3>
-<h3>- 😄 Estudando React Native</h3>
+<h3>- 😄 Estudando Node.js</h3>
 
 <div align="center">
   <a href="https://github.com/Felipe-Gs">
