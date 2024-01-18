@@ -3,7 +3,7 @@
 <h2>Clique em Website Up e veja meu Portifolio...</h2><a href="https://felipegomes.vercel.app//" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 </div>
 
-<h3>- 🔭 Cursando Engenharia de Software, Desenvolvedor Front end mobile com React Native (Projeto da faculdade)</h3>
+<h3>- 🔭 Cursando Engenharia de Software, Desenvolvedor React | React Native | Node.js | Cypress</h3>
 <h3>- 😄 Estudando React native + TypeScript</h3>
 
 <div align="center">
