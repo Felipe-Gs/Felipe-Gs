@@ -4,7 +4,7 @@
 </div>
 
 <h3>- 🔭 Cursando Engenharia de Software, Desenvolvedor React | React Native | Node.js | Cypress</h3>
-<h3>- 😄 Estudando React native + TypeScript</h3>
+<h3>- 😄 Estudando Angular + Spring</h3>
 
 <div align="center">
   <a href="https://github.com/Felipe-Gs">
